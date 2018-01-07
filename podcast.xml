@@ -26,6 +26,39 @@
 <itunes:category text="Religion &amp; Spirituality"></itunes:category>
 <itunes:category text="Christianity"></itunes:category>
 <item>
+<title>Discovery Church - God with Us</title>
+<itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<description></description>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20-%20God%20With%20Us.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20-%20God%20With%20Us.mp3" length="23226408" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20-%20God%20With%20Us.mp3</guid>
+<itunes:duration>24:12</itunes:duration>
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20Sermons.png" />
+<author>media@discoverylife.org</author>
+<itunes:author>Discovery Church</itunes:author>
+<itunes:keywords>church, faith, sermon</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Mon, 1 January 2018 23:30:00 CST</pubDate>
+</item>
+<item>
+<item>
+<title>From the Beginning - All Hail the King</title>
+<itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
+<itunes:summary></itunes:summary>
+<description></description>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/From%20the%20Beginning%20-%20All%20Hail%20the%20King.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/From%20the%20Beginning%20-%20All%20Hail%20the%20King.mp3" length="23422013" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/From%20the%20Beginning%20-%20All%20Hail%20the%20King.mp3</guid>
+<itunes:duration>24:24</itunes:duration>
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Series-Title.jpg" />
+<author>media@discoverylife.org</author>
+<itunes:author>Discovery Church</itunes:author>
+<itunes:keywords>church, faith, sermon</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Mon, 18 December 2017 23:30:00 CST</pubDate>
+</item>
+<item>
 <title>Better Together - Fellowship and Encouragement</title>
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
