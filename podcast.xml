@@ -3,15 +3,15 @@
 <channel>
 <title>Discovery Church | Cibolo, TX</title>
 <link>http://www.discoverylife.org</link>
-<atom:link href="http://discoverylife.org/components/com_sermonspeaker/media/feed.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/podcast.xml" rel="self" type="application/rss+xml" />
 <description>This podcast feed is the sermon audio for Sunday morning services at Discovery Church in Cibolo, Texas. Service times are 9:30 and 11:00 AM at 242 Country Lane, Cibolo, TX 78108.</description>
 <generator>barnwellsteve</generator>
 <lastBuildDate>Tue, 11 Apr 2017 18:58:04 CST</lastBuildDate>
 <language>en</language>
 <copyright>Discovery Church copyright 2017</copyright>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Discovery%20Church%20Sermons.png" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20Sermons.png" />
 <image>
-<url>http://discoverylife.org/components/com_sermonspeaker/media/Discovery%20Church%20Sermons.png</url>
+<url>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20Sermons.png</url>
 <title>Discovery Church Sermons</title>
 <link>http://www.discoverylife.org</link>
 </image>
@@ -30,11 +30,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Better%20Together%20-%20Fellowship%20and%20Encouragement.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Better%20Together%20-%20Fellowship%20and%20Encouragement.mp3" length="25299068" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Better%20Together%20-%20Fellowship%20and%20Encouragement.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better%20Together%20-%20Fellowship%20and%20Encouragement.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better%20Together%20-%20Fellowship%20and%20Encouragement.mp3" length="25299068" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better%20Together%20-%20Fellowship%20and%20Encouragement.mp3</guid>
 <itunes:duration>26:21</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Better-Together.png" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better-Together.png" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -46,11 +46,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Better%20Together%20-%20Fellowship%20on%20Purpose.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Better%20Together%20-%20Fellowship%20on%20Purpose.mp3" length="20285230" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Better%20Together%20-%20Fellowship%20on%20Purpose.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better%20Together%20-%20Fellowship%20on%20Purpose.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better%20Together%20-%20Fellowship%20on%20Purpose.mp3" length="20285230" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better%20Together%20-%20Fellowship%20on%20Purpose.mp3</guid>
 <itunes:duration>21:08</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Better-Together.png" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better-Together.png" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -62,11 +62,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Better%20Together%20-%20Our%20Testimony.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Better%20Together%20-%20Our%20Testimony.mp3" length="23017011" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Better%20Together%20-%20Our%20Testimony.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better%20Together%20-%20Our%20Testimony.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better%20Together%20-%20Our%20Testimony.mp3" length="23017011" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better%20Together%20-%20Our%20Testimony.mp3</guid>
 <itunes:duration>23:59</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Better-Together.png" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better-Together.png" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -78,11 +78,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Better%20Together%20-%20Fellowship%20with%20Christ.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Better%20Together%20-%20Fellowship%20with%20Christ.mp3" length="22166882" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Better%20Together%20-%20Fellowship%20with%20Christ.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better%20Together%20-%20Fellowship%20with%20Christ.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better%20Together%20-%20Fellowship%20with%20Christ.mp3" length="22166882" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better%20Together%20-%20Fellowship%20with%20Christ.mp3</guid>
 <itunes:duration>23:05</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Better-Together.png" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Better-Together.png" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -94,11 +94,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Discovery%20Church%20-%20Guatamala%20Missions.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Discovery%20Church%20-%20Guatamala%20Missions.mp3" length="28147878" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Discovery%20Church%20-%20Guatamala%20Missions.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20-%20Guatamala%20Missions.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20-%20Guatamala%20Missions.mp3" length="28147878" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20-%20Guatamala%20Missions.mp3</guid>
 <itunes:duration>29:19</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Discovery%20Church%20Sermons.png" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20Sermons.png" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -110,11 +110,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/re-wiring%20-%20Transforming.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/re-wiring%20-%20Transforming.mp3" length="25615463" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/re-wiring%20-%20Transforming.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/re-wiring%20-%20Transforming.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/re-wiring%20-%20Transforming.mp3" length="25615463" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/re-wiring%20-%20Transforming.mp3</guid>
 <itunes:duration>26:41</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/rewiring-title.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/rewiring-title.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -126,11 +126,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/re-wiring%20-%20Controlling%20Our%20Thoughts.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/re-wiring%20-%20Controlling%20Our%20Thoughts.mp3" length="25199176" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/re-wiring%20-%20Controlling%20Our%20Thoughts.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/re-wiring%20-%20Controlling%20Our%20Thoughts.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/re-wiring%20-%20Controlling%20Our%20Thoughts.mp3" length="25199176" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/re-wiring%20-%20Controlling%20Our%20Thoughts.mp3</guid>
 <itunes:duration>26:15</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/rewiring-title.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/rewiring-title.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -142,11 +142,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/re-wiring%20-%20Lies%20We%20Believe.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/re-wiring%20-%20Lies%20We%20Believe.mp3" length="23524413" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/re-wiring%20-%20Lies%20We%20Believe.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/re-wiring%20-%20Lies%20We%20Believe.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/re-wiring%20-%20Lies%20We%20Believe.mp3" length="23524413" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/re-wiring%20-%20Lies%20We%20Believe.mp3</guid>
 <itunes:duration>24:30</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/rewiring-title.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/rewiring-title.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -158,11 +158,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/re-wiring%20-%20Power%20of%20Thought.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/re-wiring%20-%20Power%20of%20Thought.mp3" length="20187548" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/re-wiring%20-%20Power%20of%20Thought.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/re-wiring%20-%20Power%20of%20Thought.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/re-wiring%20-%20Power%20of%20Thought.mp3" length="20187548" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/re-wiring%20-%20Power%20of%20Thought.mp3</guid>
 <itunes:duration>22:29</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/rewiring-title.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/rewiring-title.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -174,11 +174,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Triple%20Threat%20-%20Holy%20Obedience.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Triple%20Threat%20-%20Holy%20Obedience.mp3" length="24395022" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Triple%20Threat%20-%20Holy%20Obedience.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Triple%20Threat%20-%20Holy%20Obedience.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Triple%20Threat%20-%20Holy%20Obedience.mp3" length="24395022" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Triple%20Threat%20-%20Holy%20Obedience.mp3</guid>
 <itunes:duration>25:25</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Triple-Threat.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Triple-Threat.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -190,11 +190,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Triple%20Threat%20-%20Biblical%20Knowledge.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Triple%20Threat%20-%20Biblical%20Knowledge.mp3" length="20782183" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Triple%20Threat%20-%20Biblical%20Knowledge.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Triple%20Threat%20-%20Biblical%20Knowledge.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Triple%20Threat%20-%20Biblical%20Knowledge.mp3" length="20782183" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Triple%20Threat%20-%20Biblical%20Knowledge.mp3</guid>
 <itunes:duration>21:39</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Triple-Threat.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Triple-Threat.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -206,11 +206,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Triple%20Threat%20-%20Spiritual%20Intimacy.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Triple%20Threat%20-%20Spiritual%20Intimacy.mp3" length="24094928" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Triple%20Threat%20-%20Spiritual%20Intimacy.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Triple%20Threat%20-%20Spiritual%20Intimacy.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Triple%20Threat%20-%20Spiritual%20Intimacy.mp3" length="24094928" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Triple%20Threat%20-%20Spiritual%20Intimacy.mp3</guid>
 <itunes:duration>25:06</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Triple-Threat.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Triple-Threat.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -222,11 +222,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Discovery%20Church%20-%2021%20Days.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Discovery%20Church%20-%2021%20Days.mp3" length="16494994" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Discovery%20Church%20-%2021%20Days.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20-%2021%20Days.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20-%2021%20Days.mp3" length="16494994" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20-%2021%20Days.mp3</guid>
 <itunes:duration>22:17</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Discovery%20Church%20Sermons.png" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Discovery%20Church%20Sermons.png" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -238,11 +238,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/The%20Power%20of%20Proximity%20-%20How%20You%20Behave.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/The%20Power%20of%20Proximity%20-%20How%20You%20Behave.mp3" length="21391098" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/The%20Power%20of%20Proximity%20-%20How%20You%20Behave.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/The%20Power%20of%20Proximity%20-%20How%20You%20Behave.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/The%20Power%20of%20Proximity%20-%20How%20You%20Behave.mp3" length="21391098" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/The%20Power%20of%20Proximity%20-%20How%20You%20Behave.mp3</guid>
 <itunes:duration>28:50</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Power-of-Proximity.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Power-of-Proximity.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -254,11 +254,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Beautiful%20Words.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Beautiful%20Words.mp3" length="23586673" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Beautiful%20Words.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Beautiful%20Words.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Beautiful%20Words.mp3" length="23586673" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Beautiful%20Words.mp3</guid>
 <itunes:duration>32:47</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Colossians-Jesus-The-Divine.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians-Jesus-The-Divine.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -271,11 +271,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Family%20Rules.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Family%20Rules.mp3" length="21151206" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Family%20Rules.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Family%20Rules.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Family%20Rules.mp3" length="21151206" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Family%20Rules.mp3</guid>
 <itunes:duration>30:40</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Colossians-Jesus-The-Divine.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians-Jesus-The-Divine.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -287,11 +287,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Requirements%20for%20Unity.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Requirements%20for%20Unity.mp3" length="22637425" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Requirements%20for%20Unity.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Requirements%20for%20Unity.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Requirements%20for%20Unity.mp3" length="22637425" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Requirements%20for%20Unity.mp3</guid>
 <itunes:duration>32:35</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Colossians-Jesus-The-Divine.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians-Jesus-The-Divine.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -303,11 +303,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20New%20Life%20in%20Christ.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20New%20Life%20in%20Christ.mp3" length="24083643" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20New%20Life%20in%20Christ.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20New%20Life%20in%20Christ.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20New%20Life%20in%20Christ.mp3" length="24083643" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20New%20Life%20in%20Christ.mp3</guid>
 <itunes:duration>33:30</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Colossians-Jesus-The-Divine.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians-Jesus-The-Divine.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -319,11 +319,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Spiritual%20Transformation.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Spiritual%20Transformation.mp3" length="24083643" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Spiritual%20Transformation.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Spiritual%20Transformation.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Spiritual%20Transformation.mp3" length="24083643" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Spiritual%20Transformation.mp3</guid>
 <itunes:duration>25:05</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Colossians-Jesus-The-Divine.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians-Jesus-The-Divine.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -335,11 +335,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Launching%20Arrows.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Launching%20Arrows.mp3" length="25279990" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Launching%20Arrows.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Launching%20Arrows.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Launching%20Arrows.mp3" length="25279990" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Launching%20Arrows.mp3</guid>
 <itunes:duration>36:37</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Colossians-Jesus-The-Divine.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians-Jesus-The-Divine.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -351,11 +351,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Christ%20the%20Divine.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Christ%20the%20Divine.mp3" length="23464213" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Christ%20the%20Divine.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Christ%20the%20Divine.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Christ%20the%20Divine.mp3" length="23464213" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Christ%20the%20Divine.mp3</guid>
 <itunes:duration>33:30</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Colossians-Jesus-The-Divine.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians-Jesus-The-Divine.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -367,11 +367,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Proper%20Suffering.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Proper%20Suffering.mp3" length="15075782" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Proper%20Suffering.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Proper%20Suffering.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Proper%20Suffering.mp3" length="15075782" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Proper%20Suffering.mp3</guid>
 <itunes:duration>20:16</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Colossians-Jesus-The-Divine.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians-Jesus-The-Divine.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -383,11 +383,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Who%20Is%20Jesus.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Who%20Is%20Jesus.mp3" length="31963845" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Who%20Is%20Jesus.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Who%20Is%20Jesus.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Who%20Is%20Jesus.mp3" length="31963845" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Who%20Is%20Jesus.mp3</guid>
 <itunes:duration>33:17</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Colossians-Jesus-The-Divine.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians-Jesus-The-Divine.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -399,11 +399,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Colossians%201%201-14.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Colossians%201%201-14.mp3" length="13482767" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Colossians%20-%20Colossians%201%201-14.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Colossians%201%201-14.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Colossians%201%201-14.mp3" length="13482767" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians%20-%20Colossians%201%201-14.mp3</guid>
 <itunes:duration>17:45</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Colossians-Jesus-The-Divine.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Colossians-Jesus-The-Divine.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -415,11 +415,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/My%20Friend%20Who%20-%20Encouraged%20Me.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/My%20Friend%20Who%20-%20Encouraged%20Me.mp3" length="15517344" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/My%20Friend%20Who%20-%20Encouraged%20Me.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/My%20Friend%20Who%20-%20Encouraged%20Me.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/My%20Friend%20Who%20-%20Encouraged%20Me.mp3" length="15517344" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/My%20Friend%20Who%20-%20Encouraged%20Me.mp3</guid>
 <itunes:duration>20:59</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/MFW-Title.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/MFW-Title.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -431,11 +431,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/My%20Friend%20Who%20-%20Confronts.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/My%20Friend%20Who%20-%20Confronts.mp3" length="21243311" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/My%20Friend%20Who%20-%20Confronts.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/My%20Friend%20Who%20-%20Confronts.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/My%20Friend%20Who%20-%20Confronts.mp3" length="21243311" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/My%20Friend%20Who%20-%20Confronts.mp3</guid>
 <itunes:duration>28:07</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/MFW-Title.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/MFW-Title.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -447,11 +447,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary></itunes:summary>
 <description></description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/My%20Friend%20Who%20-%20I%20Call%20Mom.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/My%20Friend%20Who%20-%20I%20Call%20Mom.mp3" length="16361011" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/My%20Friend%20Who%20-%20I%20Call%20Mom.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/My%20Friend%20Who%20-%20I%20Call%20Mom.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/My%20Friend%20Who%20-%20I%20Call%20Mom.mp3" length="16361011" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/My%20Friend%20Who%20-%20I%20Call%20Mom.mp3</guid>
 <itunes:duration>17:02</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/MFW-Title.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/MFW-Title.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -463,11 +463,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary>The first of a new series, Pastor Andy Hostetler explains how we can practically use hospitality, especially around the table, for the Kingdom of God.</itunes:summary>
 <description>The first of a new series, Pastor Andy Hostetler explains how we can practically use hospitality, especially around the table, for the Kingdom of God.</description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/My%20Friend%20Who%20-%20Invited%20Me%20to%20Dinner.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/My%20Friend%20Who%20-%20Invited%20Me%20to%20Dinner.mp3" length="25531871" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/My%20Friend%20Who%20-%20Invited%20Me%20to%20Dinner.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/My%20Friend%20Who%20-%20Invited%20Me%20to%20Dinner.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/My%20Friend%20Who%20-%20Invited%20Me%20to%20Dinner.mp3" length="25531871" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/My%20Friend%20Who%20-%20Invited%20Me%20to%20Dinner.mp3</guid>
 <itunes:duration>26:35</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/MFW-Title.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/MFW-Title.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -479,11 +479,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary>Pastor Andy Hostetler talks about true faithfulness in generosity from the series Leaving a Legacy on Sunday, April 30th, 2017 at the 9:30am service.</itunes:summary>
 <description>Pastor Andy Hostetler talks about true faithfulness in generosity from the series Leaving a Legacy on Sunday, April 30th, 2017 at the 9:30am service.</description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Leaving%20a%20Legacy%20-%20Generosity%20In%20All%20Things.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Leaving%20a%20Legacy%20-%20Generosity%20In%20All%20Things.mp3" length="16620888" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Leaving%20a%20Legacy%20-%20Generosity%20In%20All%20Things.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving%20a%20Legacy%20-%20Generosity%20In%20All%20Things.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving%20a%20Legacy%20-%20Generosity%20In%20All%20Things.mp3" length="16620888" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving%20a%20Legacy%20-%20Generosity%20In%20All%20Things.mp3</guid>
 <itunes:duration>23:56</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Leaving-a-Legacy.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving-a-Legacy.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -495,11 +495,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary>Pastor Andy Hostetler's message covering obedience in stewardship and generosity from the series Leaving a Legacy on Sunday, April 23rd, 2017 at the 9:30am service.</itunes:summary>
 <description>Pastor Andy Hostetler's message covering obedience in stewardship and generosity from the series Leaving a Legacy on Sunday, April 23rd, 2017 at the 9:30am service.</description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Leaving%20a%20Legacy%20-%20Am%20I%20Generous%20With%20What%20I%20Have.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Leaving%20a%20Legacy%20-%20Am%20I%20Generous%20With%20What%20I%20Have.mp3" length="20888763" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Leaving%20a%20Legacy%20-%20Am%20I%20Generous%20With%20What%20I%20Have.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving%20a%20Legacy%20-%20Am%20I%20Generous%20With%20What%20I%20Have.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving%20a%20Legacy%20-%20Am%20I%20Generous%20With%20What%20I%20Have.mp3" length="20888763" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving%20a%20Legacy%20-%20Am%20I%20Generous%20With%20What%20I%20Have.mp3</guid>
 <itunes:duration>21:46</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Leaving-a-Legacy.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving-a-Legacy.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -511,11 +511,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary>Pastor Andy Hostetler's message titled "The Generosity of God" from the series Leaving a Legacy on Easter Sunday, April 16th, 2017 at the 9:30am service.</itunes:summary>
 <description>Pastor Andy Hostetler's message titled "The Generosity of God" from the series Leaving a Legacy on Easter Sunday, April 16th, 2017 at the 9:30am service.</description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Leaving%20a%20Legacy%20-%20The%20Generosity%20of%20God.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Leaving%20a%20Legacy%20-%20The%20Generosity%20of%20God.mp3" length="27517595" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Leaving%20a%20Legacy%20-%20The%20Generosity%20of%20God.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving%20a%20Legacy%20-%20The%20Generosity%20of%20God.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving%20a%20Legacy%20-%20The%20Generosity%20of%20God.mp3" length="27517595" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving%20a%20Legacy%20-%20The%20Generosity%20of%20God.mp3</guid>
 <itunes:duration>28:40</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Leaving-a-Legacy.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving-a-Legacy.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
@@ -527,11 +527,11 @@
 <itunes:subtitle>Sunday Morning Sermon</itunes:subtitle>
 <itunes:summary>Pastor Andy Hostetler's message titled "Paradigm Shift" from the series Leaving a Legacy on April 9th, 2017 at the 9:30am service.</itunes:summary>
 <description>Pastor Andy Hostetler's message titled "Paradigm Shift" from the series Leaving a Legacy on April 9th, 2017 at the 9:30am service.</description>
-<link>http://discoverylife.org/components/com_sermonspeaker/media/Leaving%20a%20Legacy%20-%20Paradigm%20Shift.mp3</link>
-<enclosure url="http://discoverylife.org/components/com_sermonspeaker/media/Leaving%20a%20Legacy%20-%20Paradigm%20Shift.mp3" length="23373948" type="audio/mpeg"/>
-<guid>http://discoverylife.org/components/com_sermonspeaker/media/Leaving%20a%20Legacy%20-%20Paradigm%20Shift.mp3</guid>
+<link>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving%20a%20Legacy%20-%20Paradigm%20Shift.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving%20a%20Legacy%20-%20Paradigm%20Shift.mp3" length="23373948" type="audio/mpeg"/>
+<guid>https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving%20a%20Legacy%20-%20Paradigm%20Shift.mp3</guid>
 <itunes:duration>24:20</itunes:duration>
-<itunes:image href="http://discoverylife.org/components/com_sermonspeaker/media/Leaving-a-Legacy.jpg" />
+<itunes:image href="https://raw.githubusercontent.com/DiscoveryCibolo/podcast/master/Leaving-a-Legacy.jpg" />
 <author>media@discoverylife.org</author>
 <itunes:author>Discovery Church</itunes:author>
 <itunes:keywords>church, faith, sermon</itunes:keywords>
